@@ -66,6 +66,7 @@ npm install sequelize
 
 npm install dotenv
 
+
 ## Usage (Usage)
 
 mysql -u root -p
