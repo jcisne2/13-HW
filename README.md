@@ -9,9 +9,9 @@ https://github.com/jcisne2/13-HW
 
 ## Table of Contents 🗒
 
-* [User Story](#User Story)
+* [User Story](#User-Story)
 
-* [Acceptance Criteria](#Acceptance Criteria)
+* [Acceptance Criteria](#Acceptance-Criteria)
 
 * [Images](#images)
 
